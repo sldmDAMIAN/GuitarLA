@@ -497,6 +497,10 @@ a {
   .nosotros__grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .nosotros__contenedor {
+    min-height: 55rem;
+  }
 }
 
 /*===================================================================*/
